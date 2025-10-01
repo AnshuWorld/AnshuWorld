@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![An image of @anshuworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshuworld)](https://holopin.io/@anshuworld)
+[![An image of @anshuworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@anshuworld)](https://holopin.io/@anshuworld)
 
 
 <!--
